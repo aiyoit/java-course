@@ -8,7 +8,7 @@ public class SimpleIfStatement {
             System.out.println("Hello True");
         }
 
-        // If false code willn't be executed
+        // If false code won't be executed
         if (false) {
             System.out.println("Hello False");
         }
